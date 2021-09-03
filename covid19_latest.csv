@@ -1,0 +1,7 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1608020397935,Thailand,764,4246,9,60,0,3949,9,237,1,61,0.9,1217873,17428,69879930,Asia,16458,1164666,57,3.39,56.51,0.01
+1608020397935,Thailand,https://disease.sh/assets/img/flags/th.png,4246,9,60,0,3949,9,237,1,61,0.9,1217873,17428,69879930,Asia,16458,1164666,57,3.39,56.51,0.01
+1608020397935,Thailand,TH,4246,9,60,0,3949,9,237,1,61,0.9,1217873,17428,69879930,Asia,16458,1164666,57,3.39,56.51,0.01
+1608020397935,Thailand,THA,4246,9,60,0,3949,9,237,1,61,0.9,1217873,17428,69879930,Asia,16458,1164666,57,3.39,56.51,0.01
+1608020397935,Thailand,15,4246,9,60,0,3949,9,237,1,61,0.9,1217873,17428,69879930,Asia,16458,1164666,57,3.39,56.51,0.01
+1608020397935,Thailand,100,4246,9,60,0,3949,9,237,1,61,0.9,1217873,17428,69879930,Asia,16458,1164666,57,3.39,56.51,0.01
